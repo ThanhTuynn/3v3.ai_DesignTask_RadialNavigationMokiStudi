@@ -57,7 +57,7 @@ http://localhost:5173
 * **React** – Component-based UI development
 * **Vite** – Fast development environment and build tool
 * **CSS / Tailwind CSS** (adjust based on your project) – Styling and layout
-* **JavaScript (ES6+)** – Core logic and interactions
+* **JavaScript** – Core logic and interactions
 
 ---
 
